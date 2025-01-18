@@ -22,7 +22,7 @@ This project generates a maze using the depth-first search (DFS) algorithm and t
 Install Pygame via pip:
 ```bash
 pip install pygame
-
+```
 ---
 
 ## Run the Program
